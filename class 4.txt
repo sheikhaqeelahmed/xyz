@@ -1,0 +1,5 @@
+python class 4:
+functions
+
+
+make a program of table using function

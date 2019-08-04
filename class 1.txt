@@ -1,0 +1,67 @@
+python class 1:
+
+jupyter notebook
+jupyter lab
+
+python read coding line by line
+
+conda --version
+anaconda-navigator  (if global tick mark not done)
+
+
+new
+python3
+
+
+shift + enter (to execute current cell and add new line)
+or
+ctrl + enter (to execute current cell but not add new line)
+
+every function has a signature or it's also called doc string
+use shift + tab to check docstring
+
+escape characters e.g \n, \t, \tt etc
+
+variables
+reserve words/key words
+division is by default float (if we divide the result would be float)
+use // instead of / for division if we need answer without decimal
+
+round((10/3),3)
+
+print('apple' * 5)
+
+type(a)   ===> to check data type
+
+Concatination
+
+age=input('What is your age? ')
+name=input'What is your name? ')
+print('My name is ' + name + ' and age is ' + age)
+
+input is by default string
+
+type casting
+when we define data type ourselves to a variable then it's called type casting
+
+age = int(input('What is your age? '))
+print('My name is ' + name + ' and age is ' + str(age))
+
+We can also use , instead of + but it's not ok with the programming
+
+{} is called place holder
+.format is a method
+
+print('My name is {} and my age is {} '.format(name,age))
+
+print('My name is {name} and my age is {age} '.format(name,age))
+
+print('My name is {0} and my age is {1} '.format(name,age))
+
+assignment# 1:
+find out all escape characters in python
+
+
+----
+
+colab google

@@ -1,0 +1,121 @@
+python class 3:
+
+Tupple:
+we can save values in Tuplpes also just like LIST but we change values 
+in LIST but we cannot change values Tupple
+Tupple values are constants
+Tupple is immutable
+
+
+myTupple = (12,33,44,'Aqee','Ahmed')
+
+to open properties type veriable name press dot(.) and press tab
+
+
+For Loop:
+for i in range(10):
+  print(i, "Hello Pakistan")
+
+---
+
+for i in range(10):
+  print(i, end = " ")
+------
+
+for i in range(1, 10):
+  print(i, "Hello Pakistan")
+
+----
+
+for i in range(1, 10, 2):
+  print(i, "Hello Pakistan")
+
+-----
+
+for i in range(1, 10, -1):
+  print(i, end = " ")
+
+
+----
+
+we use f for string formation
+print (f"hello {}")
+
+--------
+
+for a in range(1,10):
+  if a==4:
+    continue
+  print(a)
+
+------
+
+for a in range(1,10):
+  if a==4:
+    break
+  print(a)
+
+-----
+
+friends=['Rehan','Tabish', 'Saad', 'Habib']
+for friend in friends:
+	if friend!="Saad":
+		print(f"Welcome to the Party {friend}")
+	else:
+		print(f"Party is over {friend}")
+		break
+
+
+---------
+
+vTableNo = int(input("Table Number: "))
+for i in range(1, 10):
+  print(f"{vTableNo} * {i} = {vTableNo*i}")
+
+---------
+
+for tables in range(2,6):
+  print("####")
+  for num in range(1,11):
+    print(f"{tables} * {num} = {tables*num}")
+
+------------
+
+We use {} for creating dictionary
+
+dic = {key:value}
+
+-----------------------
+
+dic = {"name":"Aqeel","age":40, "gender": "male"}
+for key in dic.keys():
+  print(key)
+
+-----
+
+for val in dic.values():
+  print(val)
+
+-------
+
+for k,v in dic.items():
+  print(k,v)
+
+-------
+
+addition in dictionary:
+dic["address"]="new karachi"
+
+-----
+
+no indexing in dictionaries
+there is no sequence
+
+------------
+
+Read python documentation
+
+-------
+
+
+

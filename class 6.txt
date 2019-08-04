@@ -1,0 +1,28 @@
+class 6:
+
+functional programming
+procedural programming
+object oriented programming (oops)
+oop reduces code because we reuse code
+objects are instances
+object is instance of class
+objects came from classess
+
+
+topics:
+pass
+
+
+__ (double underscore is called dunder)
+
+
+
+-----
+
+to run on vs code type of following command in terminal:
+python filename.py
+python forloop.py
+
+
+Inheritance
+we reuse code in inheritance

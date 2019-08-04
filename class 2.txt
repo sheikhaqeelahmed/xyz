@@ -1,0 +1,32 @@
+python class 2:
+
+modulas
+
+10%3
+a+=5  (add and assign value)
+
+a-=5
+*=
+/=
+//=
+
+
+Comparision Operator
+a=2
+b=2
+a==b
+
+a!=b
+a>b
+a<b
+a>=b
+a<=b
+
+10**2 (power)
+
+IF statement
+
+
+ctrl + / (for comment)
+use # for comment
+use ' for three times
