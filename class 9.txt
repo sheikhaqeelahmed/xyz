@@ -1,0 +1,17 @@
+Class 9:
+File Handling:
+Save in txt file:
+
+with open('filehandling.txt','w') as file_object:
+
+if we will not type 'w' then it will auto read the file
+
+Save in CSV files
+
+
+JSON
+Javascript Object Notation
+
+List Comprehension
+x=[i**2 for i in [1,2,3,4]]
+
